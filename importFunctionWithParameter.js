@@ -1,2 +1,2 @@
-const square = require("./exportFunctionWithParameter");
+const square = require("./exportFunctionWithParameter.mjs");
 console.log(square(2));
